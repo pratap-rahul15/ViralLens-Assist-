@@ -131,3 +131,13 @@ Backend → http://localhost:5000
 ViralLens Assist demonstrates how to build a **production-ready AI chatbot** using modern web technologies, **JWT authentication**, **persistent chat history**, and **LLM integration via OpenRouter**.
 
 Made with ❤️ by Rahul Pratap Singh
+
+
+<img width="1031" height="974" alt="image" src="https://github.com/user-attachments/assets/edfe87eb-a696-4466-9dd3-839abe1f7cea" />
+
+<img width="796" height="971" alt="image" src="https://github.com/user-attachments/assets/b6e69155-dc61-47d2-b058-712f5f1e4f1a" />
+
+<img width="725" height="983" alt="image" src="https://github.com/user-attachments/assets/7783d670-502b-4631-be04-7afb44ec3baa" />
+
+<img width="1915" height="994" alt="image" src="https://github.com/user-attachments/assets/aac97f5c-0e42-4b5a-b168-3ea9bda406e9" />
+
